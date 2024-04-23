@@ -19,7 +19,7 @@ protection:
   is_claimed_by: '&6これは {0} に保護されてるよ'
   no_access: '&4これは {0} に保護されてるため、アクセスできません。'
   no_permission_for_claim: '&4君には権限がないからこれにはアクセスできないよ。'
-  not_nearby: '&4このへんには保護できるブロックが存在しません!'
+  not_nearby: '&4この辺りには保護できるブロックが存在しません!'
   selected_sign: '&6看板を選択したよ。 /blocklocker <行番号> <アクセス許可したい人の名前> を打って編集できるよ!'
 tag:
   everyone: Everyone
@@ -29,6 +29,6 @@ tag:
   timer: Timer
 updater:
   more_information: '&6インフォメーションはこちら: {0}'
-  unsupported_server: '&4blocklockerの最新版 (version {0}) は、このマイクラのバージョンをサポートしていません。 以下のバージョンで使ってね: {1}.'
+  unsupported_server: '&4blocklockerの最新版 (version {0}) は、このマインクラフトバージョンをサポートしていません。 以下のバージョンを利用してください: {1}.'
   update_available: '&6以下のアップデートができます。 (version {0}) '
   updated_automatically: '&6 version {0} のアップデートができるので、自動でアップデートしました。(これはconfigから自動アップデートを無効にすることで停止します。)'
